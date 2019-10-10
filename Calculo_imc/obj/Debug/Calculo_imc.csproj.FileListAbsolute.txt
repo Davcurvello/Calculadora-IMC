@@ -1,0 +1,9 @@
+c:\users\davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.exe.config
+c:\users\davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csprojResolveAssemblyReference.cache
+c:\users\davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.Form1.resources
+c:\users\davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.Properties.Resources.resources
+c:\users\davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csproj.GenerateResource.Cache
+C:\Users\Davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.exe
+C:\Users\Davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.pdb
+C:\Users\Davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.exe
+C:\Users\Davi\documents\visual studio 2012\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.pdb
